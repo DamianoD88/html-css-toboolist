@@ -29,5 +29,21 @@ main{
 }
 
 #button-color{
-    background-color: lightskyblue;
+    background-color: #499fe6;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#button2{
+    background-color: white;
+    color: lightgrey;
+    border: 2px solid #e7e7e7;
+    border-radius: 3px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+
+
 }
